@@ -3,7 +3,8 @@
 
 
 
-🚀 **BCA 2nd Year | Developer | Lifelong Learner**  
+🚀 **BCA 3rd Year | Developer | Lifelong Learner**  
+
 I love building apps, solving problems, and learning something new every day.
 
 
@@ -44,7 +45,7 @@ I love building apps, solving problems, and learning something new every day.
 ## 📫 Contact Me  
 
 
-<p align="center">React to me through:</p>
+<p align="center">Reach to me through:</p>
 
 
 <p align="center">
