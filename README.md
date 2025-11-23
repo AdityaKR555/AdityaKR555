@@ -41,6 +41,12 @@ I love building apps, solving problems, and learning something new every day.
     <img src="https://img.shields.io/badge/📧 Email%20Me-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <a href="mailto:adityakmr91620@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email%20Me-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 
 ---
