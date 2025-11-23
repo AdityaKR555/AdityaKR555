@@ -48,7 +48,7 @@ I love building apps, solving problems, and learning something new every day.
 <p align="center">Reach to me through:</p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rmaditya101@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📧 Email%20Me-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -57,7 +57,17 @@ I love building apps, solving problems, and learning something new every day.
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityaforwork101@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📧 Email%20Me-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p> -->
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rmaditya101@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧 Email%20Me-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aditya-kumar-892149360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 
 
