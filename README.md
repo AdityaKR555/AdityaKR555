@@ -1,15 +1,20 @@
 ## Hi there 👋, I am Aditya Kumar Rai...
 
+
 🚀 **BCA 2nd Year | Developer | Lifelong Learner**  
 I love building apps, solving problems, and learning something new every day.
 
+
 ---
+
 
 ## 🔥 What I'm Learning Right Now  
 - **React.js** (Some react projects are already there, check it out!)
-- **Node.js** (Next)  
+- **Node.js** (Next)
+  
 
 ---
+
 
 ## 💼 What I Can Do  
 - Android Apps (Java)  
@@ -17,10 +22,14 @@ I love building apps, solving problems, and learning something new every day.
 - Python Tools & Scripts  
 - Clean and Responsive UI using Tailwind  
 - Basic backend (Appwrite / APIs)
+  
 
 ---
 
+
 ## 📫 Contact Me  
+
+<p align="center">React to me through:</p>
 
 <p align="center">
   <a href="mailto:rmaditya101@gmail.com">
@@ -33,7 +42,9 @@ I love building apps, solving problems, and learning something new every day.
   </a>
 </p>
 
+
 ---
+
 
 
 # 💻 Tech Stack:
@@ -43,6 +54,9 @@ I love building apps, solving problems, and learning something new every day.
 ![](https://nirzak-streak-stats.vercel.app/?user=AdityaKR555&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKR555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=AdityaKR555&icon=0&color=0)](https://visitcount.itsvg.in)
 
