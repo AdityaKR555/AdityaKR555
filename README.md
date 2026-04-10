@@ -17,7 +17,7 @@ I love building apps, solving problems, and learning something new every day.
 
 ## 🔥 What I'm Learning Right Now  
 - **React.js** (Some react projects are already there, check it out!)
-- **Node.js** (Next)
+- **Next.js** (Next)
 
   
   
